@@ -6,9 +6,9 @@ Add dependency **fastdfs-spring-boot-starter** to **pom.xml**
 
 ```xml
 		<dependency>
-			<groupId>com.luhuiguo</groupId>
+			<groupId>com.pig4cloud.fastdfs</groupId>
 			<artifactId>fastdfs-spring-boot-starter</artifactId>
-			<version>0.1.0</version>
+			<version>0.4.0</version>
 		</dependency>
 ```
 

@@ -1,4 +1,4 @@
-package com.luhuiguo.fastdfs;
+package com.pig4cloud.fastdfs;
 
 import java.util.ArrayList;
 import java.util.List;

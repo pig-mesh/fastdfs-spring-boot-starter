@@ -1,2 +1,2 @@
 org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
-com.luhuiguo.fastdfs.FdfsAutoConfiguration
+    com.pig4cloud.fastdfs.FdfsAutoConfiguration

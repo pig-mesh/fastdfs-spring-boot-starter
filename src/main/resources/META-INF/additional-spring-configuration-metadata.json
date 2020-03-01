@@ -1,0 +1,30 @@
+{
+  "hints": [],
+  "properties": [
+    {
+      "sourceType": "com.pig4cloud.fastdfs.FdfsProperties",
+      "name": "fdfs",
+      "type": "com.pig4cloud.fastdfs.FdfsProperties"
+    },
+    {
+      "sourceType": "com.pig4cloud.fastdfs.FdfsProperties",
+      "name": "fdfs.so-timeout",
+      "description": "读取时间.",
+      "defaultValue": 1000,
+      "type": "java.lang.Integer"
+    },
+    {
+      "sourceType": "com.pig4cloud.fastdfs.FdfsProperties",
+      "name": "fdfs.connect-timeout",
+      "description": "连接超时时间.",
+      "defaultValue": 1000,
+      "type": "java.lang.Integer"
+    },
+    {
+      "sourceType": "com.pig4cloud.fastdfs.FdfsProperties",
+      "name": "fdfs.tracker-list",
+      "description": "Tracker 地址列表.",
+      "type": "java.util.List"
+    }
+  ]
+}
